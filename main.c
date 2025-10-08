@@ -43,8 +43,8 @@ ADXL313 myAdxl;
 const int chipSelect = 5;
 int mint, sect, hourt, dayt, montht, yeart;
 
-const char* ssid = "EMF777";
-const char* password = "rcenter@12";
+const char* ssid = "****";
+const char* password = "******";
 
 char gpsDate[20];
 char header[20];
